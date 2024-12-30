@@ -1,0 +1,118 @@
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\meena plastic.dll.config
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\meena plastic.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\meena plastic.pdb
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\csc.exe
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\csc.exe.config
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\csc.rsp
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\csi.exe
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\csi.exe.config
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\csi.rsp
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.AppContext.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Console.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.IO.Compression.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Net.Http.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.ValueTuple.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\vbc.exe
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\vbc.exe.config
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\vbc.rsp
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\VBCSCompiler.exe
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\obj\Debug\meena plastic.csproj.AssemblyReference.cache
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\obj\Debug\meena plastic.csproj.CoreCompileInputs.cache
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\obj\Debug\meena pl.D4718BCF.Up2Date
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\obj\Debug\meena plastic.dll
+C:\Users\RUDRA\source\repos\meena plastic\meena plastic\obj\Debug\meena plastic.pdb
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\meena plastic.dll.config
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\meena plastic.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\meena plastic.pdb
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\csc.exe
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\csc.exe.config
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\csc.rsp
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\csi.exe
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\csi.exe.config
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\csi.rsp
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.AppContext.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Collections.Immutable.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Console.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Globalization.Calendars.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.IO.Compression.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.IO.FileSystem.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Net.Http.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Net.Sockets.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Reflection.Metadata.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.ValueTuple.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Xml.XPath.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\vbc.exe
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\vbc.exe.config
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\vbc.rsp
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\VBCSCompiler.exe
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\roslyn\VBCSCompiler.exe.config
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\obj\Debug\meena plastic.csproj.AssemblyReference.cache
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\obj\Debug\meena plastic.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\obj\Debug\meena pl.D4718BCF.Up2Date
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\obj\Debug\meena plastic.dll
+C:\OneDrive\Desktop\tooba\bilal\projects\meena plastic (2)\meena plastic\meena plastic\obj\Debug\meena plastic.pdb
